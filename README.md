@@ -66,12 +66,8 @@ private CartService cartService;
 
 private CategoryTwoService categoryTwoService;
 
-/**
- * 商品详情
- * @param id
- * @param model
- * @return
- */
+//商品详情
+
 @GetMapping("detail/{id}")
 
 public String toDetail(@PathVariable Long id, Model model, HttpSession session){
