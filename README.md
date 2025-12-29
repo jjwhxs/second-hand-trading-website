@@ -162,4 +162,4 @@ public String toDetail(@PathVariable Long id, Model model, HttpSession session){
 
 <img width="1040" height="135" alt="链接" src="https://github.com/user-attachments/assets/642e1c6e-0c5c-4520-b411-b4fa4231be47" />
 
-若资源获取失败，可添加happy35596339(vx)或1204901965(qq)进行交流
+若资源获取失败，可添加happy35596339(vx)或2061772307(qq)进行交流
