@@ -158,8 +158,6 @@ public String toDetail(@PathVariable Long id, Model model, HttpSession session){
 
 ### 获取方式(可远程调试)
 
-访问链接(在浏览器中手动输入下图中的地址)：
-
-<img width="1040" height="135" alt="链接" src="https://github.com/user-attachments/assets/642e1c6e-0c5c-4520-b411-b4fa4231be47" />
+访问链接：https://mbd.pub/o/bread/mbd-aJeXmZtv
 
 若资源获取失败，可添加happy35596339(vx)或2061772307(qq)进行交流
